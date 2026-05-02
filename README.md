@@ -3,11 +3,12 @@
 
 - An interactive HR analytics dashboard that visualizes employee attrition, demographics, salary trends, and workforce distribution to uncover actionable insights for HR decision-making.
 
-## 🧰 Tech Stack
-- Power BI / Excel 
-- Data Visualization
-- DAX / Calculated Fields  
+ ## 🧰 Tools & Skills Used
+- Tool: Power BI
 - Data Cleaning & Transformation
+- Data Visualization
+- DAX / Calculated Measures
+- Analytical Thinking
 ## 📂 Data Source
 - Dataset inspired by an HR analytics tutorial from YouTube  
 ## 🚀 Features & Highlights
